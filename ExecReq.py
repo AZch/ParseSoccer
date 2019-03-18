@@ -73,7 +73,23 @@ def clickGetElemSpace(driver, get):
             continue
     return True
 
-def clickGetElemEnter(driver, get):
+def clickGetElemCtrl(driver, get):
+    startTime = time.time()
+    while True:
+        try:
+            elem = driver.find_element_by_xpath(get)
+            elem.send_keys(Keys.COMMAND + 't')
+            elem.send_keys(Keys.CONTROL + 't')
+            break
+        except:
+            if time.time() - startTime > 5:
+                print('Ошибка:\n', traceback.format_exc())
+                print('stop')
+                return False
+            continue
+    return True
+
+def clickGetElemEnter(driver, get, maxTimeout = 5):
     startTime = time.time()
     while True:
         try:
@@ -82,7 +98,7 @@ def clickGetElemEnter(driver, get):
             elem.send_keys(Keys.ENTER)
             break
         except:
-            if time.time() - startTime > 5:
+            if time.time() - startTime > maxTimeout:
                 print('Ошибка:\n', traceback.format_exc())
                 print('stop')
                 return False

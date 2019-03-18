@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f17b0219-fbf6-49f3-99e4-f023800459bb" name="Default Changelist" comment="" />
+    <list default="true" id="f17b0219-fbf6-49f3-99e4-f023800459bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ExecReq.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExecReq.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,27 +12,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/ParseSoccer$main.coverage" NAME="main Coverage Results" MODIFIED="1552803332359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ParseSoccer$main.coverage" NAME="main Coverage Results" MODIFIED="1552913745652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="47" />
+            <state relative-caret-position="-120">
+              <caret line="118" selection-start-line="118" selection-end-line="118" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -37,8 +40,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ExecReq.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="925">
-              <caret line="91" column="12" selection-start-line="91" selection-start-column="12" selection-end-line="91" selection-end-column="12" />
+            <state relative-caret-position="1466">
+              <caret line="104" column="20" selection-start-line="104" selection-start-column="20" selection-end-line="104" selection-end-column="20" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -55,23 +58,29 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Турции</find>
+      <find>корк</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/ExecReq.py" />
         <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1417" />
-    <option name="y" value="25" />
-    <option name="width" value="1869" />
-    <option name="height" value="1055" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="51" />
+    <option name="y" value="14" />
+    <option name="width" value="658" />
+    <option name="height" value="770" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -154,29 +163,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552794307885</updated>
-      <workItem from="1552794311120" duration="11185000" />
+      <workItem from="1552794311120" duration="35556000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11185000" />
+    <option name="totallyTimeSpent" value="35556000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1417" y="25" width="1869" height="1055" extended-state="6" />
+    <frame x="51" y="14" width="658" height="770" extended-state="4" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17388919" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.51797384" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.33045357" />
+      <window_info anchor="bottom" id="Python Console" weight="0.32937366" />
+      <window_info anchor="bottom" id="Terminal" weight="0.33045357" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3297414" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.38685346" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4071763" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31758958" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -189,6 +198,26 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>'Америка.К'</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/selenium/webdriver/chrome/options.py">
@@ -205,17 +234,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/urllib3/util/retry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="958">
+          <caret line="397" selection-start-line="397" selection-end-line="397" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/selenium/webdriver/remote/webelement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="476" selection-start-line="476" selection-end-line="476" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="872">
+        <state relative-caret-position="200">
           <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="830" selection-start-line="830" selection-end-line="830" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ExecReq.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="925">
-          <caret line="91" column="12" selection-start-line="91" selection-start-column="12" selection-end-line="91" selection-end-column="12" />
+        <state relative-caret-position="1466">
+          <caret line="104" column="20" selection-start-line="104" selection-start-column="20" selection-end-line="104" selection-end-column="20" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -224,18 +281,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="47" />
+        <state relative-caret-position="-120">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
