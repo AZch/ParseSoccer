@@ -146,7 +146,7 @@ def fillExcel(currStr, text, ws):
                 except:
                     ws['L' + str(currStr)] = 0
                 try:
-                    ws['M' + str(currStr)] = float(oneStr[idOne + 15])
+                    ws['M' + str(currStr)] = float(oneStr[idOne + 16])
                 except:
                     ws['M' + str(currStr)] = 0
                 try:
