@@ -161,7 +161,7 @@ def fillExcel(currStr, text, ws):
                 currStr += 1
     return currStr
 
-def login(driver, name = 'fczspb', password = '1luLndck'):
+def login(driver, name = '', password = ''):
     time.sleep(1)
     while (True):
         clickGetElemEnter(driver, "//a[contains(text(), 'Авторизация')]")
